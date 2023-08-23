@@ -1,0 +1,6 @@
+#ignore local files
+data/
+todo.md
+
+#jupyter
+*.ipynb_checkpoints
